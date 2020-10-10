@@ -1,0 +1,50 @@
+main {
+    padding: 15px;
+}
+.section1 {
+    border: solid 8px black;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.purple {
+    height: 150px;
+    width: 60px;
+    background-color: blueviolet;
+    margin-top: 50px;
+    margin-right: 60px;
+    display: inline-block;
+}
+.green {
+    height: 200px;
+    width: 400px;
+    background-color: green;
+    display: inline-block;
+    margin-right: 60px;
+}
+.blue {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(138, 225, 252);
+    border-radius: 50%;
+    display: inline-block;
+}
+.section2 {
+    padding: 40px;
+    border: 8px dotted black;
+    margin-bottom: 40px;
+}
+.yellow-square {
+    height: 200px;
+    background-color: rgb(255, 234, 118);
+    box-shadow: 15px 15px 5px rgba(0, 0, 0, .3);
+}
+.white-square {
+    border: 2px gray solid;
+    padding: 80px 50px;
+    width: 600px;
+    margin: auto;
+}
+h2 {
+    text-align: center;
+    color: royalblue;
+}

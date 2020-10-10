@@ -1,0 +1,39 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.section3,
+.section4,
+.section5,
+.section6 {
+    height: 140px;
+}
+.section1 {
+    background-color: rgb(184, 184, 184);
+    padding: 10px;
+}
+.section2 {
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+}
+.section3 {
+    background-color: rgb(0, 156, 240);
+}
+.section4 {
+    background-color: rgb(0, 228, 179);
+}
+.section5 {
+    background-color: rgb(152, 220, 138);
+}
+.section6 {
+    background-color: rgb(255, 225, 0);
+}
+.blue-square {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 156, 240, 1);
+    margin-left: 15px;
+}
+p {
+    font-size: 25px;
+}
